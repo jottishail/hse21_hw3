@@ -24,4 +24,11 @@
 | SRR3414637 | Control      | 20385570    | 19847291 (97.36%) | 17844858 (87.54%) | 15736978   |
 
 
+## Часть 2
+[colab](https://colab.research.google.com/drive/1Qrt3oWOzVvPtI_umZKVGEBEThByf-kX-?usp=sharing)
 
+![](./images/MA.png)
+![](./images/heatmap.png)
+![](./images/nc1.png)
+![](./images/nc2.png)
+![](./images/nc3.png)
